@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BugCode</string>
+
+    <!-- Hints -->
+    <string name="hint_user">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password_verification">Password Confirmation</string>
+
+    <!-- Login Form -->
+    <string name="btn_login">Login</string>
+    <string name="btn_redirect_register">Não tem conta? Cadastre-se</string>
+    <string name="shape_login_form_desc">Login form background</string>
+    <string name="shape_login_banner_desc">Login banner background</string>
+
+    <string name="error_login">Usuário ou senha inválidos</string>
+
+    <!-- Register Form -->
+    <string name="btn_register">Cadastrar</string>
+    <string name="section_register">CADASTRAR</string>
+
+    <string name="title_action_info">Action info</string>
+    <string name="error_password_confirmation">Senhas estão diferentes</string>
+    <string name="error_to_register_user">Erro ao cadastrar usuário</string>
+    <string name="success_to_register_user">Sucesso ao cadastrar usuário</string>
+
+    <string name="btn_popup_ok">Ok</string>
+    <string name="text_popup">Some super cool text and things here!</string>
+
+    <!-- Common Errors -->
+    <string name="error_obligatory">Campo obrigatório</string>
+    <string name="error_snack_obligatory">Campos obrigatórios</string>
+    <string name="error_database_not_initialized">O banco de dados não foi inicializado</string>
+
+</resources>
